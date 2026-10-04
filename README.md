@@ -57,7 +57,7 @@ Food Basket is a fast-paced arcade-style game built with Unity and C#. Players m
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Mercuryy200/FruitBasket.git
+git clone https://github.com/rimanafougui/FruitBasket.git
 ```
 
 2. Open Unity Hub
