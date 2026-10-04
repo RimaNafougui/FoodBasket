@@ -89,7 +89,7 @@ This project includes comprehensive tests to ensure code quality.
 
 Configuration tests verify that game settings and prefabs are properly configured.
 
-## 📁 Project Structure
+## Project Structure
 ```
 FoodBasket/
 ├── Assets/
@@ -169,4 +169,4 @@ Key game settings can be adjusted in the Inspector:
 
 ---
 
-⭐ If you found this project interesting, please consider giving it a star!
+If you found this project interesting, please consider giving it a star!
